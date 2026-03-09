@@ -3,48 +3,48 @@ This project demonstrates various data transformations performed on HR Analytics
 
 ### Step 1: Loading & Understanding Data
 
-✅ Reading CSV files in Databricks
+i) Reading CSV files in Databricks
 
-✅ Checking schema and data types
+ii) Checking schema and data types
 
 ### Step 2: Data Cleaning & Transformation
-✅ Renaming columns for better clarity
+i) Renaming columns for better clarity
 
-✅ Converting categorical values into numerical format
+ii) Converting categorical values into numerical format
 
-✅ Handling NULL values using fillna(), dropna()
+iii) Handling NULL values using fillna(), dropna()
 
 ### Step 3: Working with DataFrames
 
-✅ Using filter(), sort() operations
+i) Using filter(), sort() operations
 
-✅ Performing column operations like withColumn(), alias(), and cast()
+ii) Performing column operations like withColumn(), alias(), and cast()
 
 ### Step 4: Advanced PySpark Functions
-✅ Using explode(), collect_list(), pivot(), when(), otherwise()
+i) Using explode(), collect_list(), pivot(), when(), otherwise()
 
-✅ String functions: initcap(), upper(), lower()
+ii) String functions: initcap(), upper(), lower()
 
-✅ Date functions: current_date(), datediff(), date_add(), year(), month()
+iii) Date functions: current_date(), datediff(), date_add(), year(), month()
 
 ### Step 5: Joins & Data Merging
-✅ Inner, Left, Right & Outer Joins
+i) Inner, Left, Right & Outer Joins
 
-✅ Union & UnionByName for combining datasets
+ii) Union & UnionByName for combining datasets
 
 ### Step 6: Window Functions & Ranking
 
-✅ Using rank(), dense_rank(), and cumulative sum()
+i) Using rank(), dense_rank(), and cumulative sum()
 
-✅ Partitioning and ordering data efficiently
+ii) Partitioning and ordering data efficiently
 
 ### Step 7: User Defined Functions (UDFs)
-✅ Writing custom functions in PySpark
+i) Writing custom functions in PySpark
 
-✅ Applying UDFs to transform and clean data
+ii) Applying UDFs to transform and clean data
 
 ### Step 8: Writing & Saving Data
-✅ Writing datasets in CSV, JSON, ORC, and Delta formats
+i) Writing datasets in CSV, JSON, ORC, and Delta formats
 
-✅ Overwriting, appending, and handling errors while saving
+ii) Overwriting, appending, and handling errors while saving
 
