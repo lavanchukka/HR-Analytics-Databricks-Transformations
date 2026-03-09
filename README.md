@@ -1,7 +1,7 @@
 # HR-Analytics-Databricks-Transformations
 This project demonstrates various data transformations performed on HR Analytics data.  datasource (kaggle): [Link](https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists)
 
-### Step 1: Loading & Understanding Data
+### Step 1: Loading Data
 
 i) Reading CSV files in Databricks
 
@@ -14,7 +14,7 @@ ii) Converting categorical values into numerical format
 
 iii) Handling NULL values using fillna(), dropna()
 
-### Step 3: Working with DataFrames
+### Step 3: Filtering, Sorting
 
 i) Using filter(), sort() operations
 
